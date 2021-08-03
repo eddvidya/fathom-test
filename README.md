@@ -1,6 +1,7 @@
 # fathom-test 
 
-Interview test for Fathom Privacy.
+Interview test for Fathom Privacy.  
+
 **The challenge**: We would like for you to develop a Python Django code base. When the root of that codebase is called '/', it should return a webpage built with React. When that request is received, Django should save some information about that request to a database. You can email the codebase, but delivery over GitHub is preferred.
 
 # Dependencies
