@@ -3,6 +3,7 @@ ui/.pnp
 .pnp.js
 ui/coverage
 ui/build
+.build
 .DS_Store
 .env.local
 .env.development.local
